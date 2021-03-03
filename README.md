@@ -1,6 +1,6 @@
-# shop_demo
+# sleep_app
 
-A layou demo Flutter project.
+A layout demo Flutter project.
 
 ## Description
 
